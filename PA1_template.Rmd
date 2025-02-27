@@ -1,8 +1,10 @@
 ---
-title: ""
-author: "CWJvanBlommestwin"
+title: "PA1_template"
+author: "CWJvanBlommestein"
 date: "27022025"
-output: html_document: keep_md: true
+output:
+  html_document:
+    keep_md: true
 ---
 
 # Introduction
